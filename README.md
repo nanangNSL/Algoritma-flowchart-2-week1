@@ -1,7 +1,8 @@
 # Algoritma-flowchart-2-week1(APTER/UPDATE)
 Pengumpulan tugas algoritma dan flowchart
 ![palindrom-nanang-baru](https://user-images.githubusercontent.com/45787278/170679958-d0d27721-87f6-4f20-8470-ad117d050dc8.jpg)
-![palindrom-nanang-baru](https://user-images.githubusercontent.com/45787278/170680091-d4c7acc7-82f6-4030-97dc-eafe5c4c8f34.jpg)
+![palindrom-Reverse-word-nanang-baru](https://user-images.githubusercontent.com/45787278/171619961-495cbe9c-0e99-4829-ba71-1a94a2fd6b86.jpg)
+
 
 
 # Algoritma-flowchart-2-week1("BEFORE")
